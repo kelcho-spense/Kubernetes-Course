@@ -3,13 +3,10 @@
 <buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
     <variables>
-        <primary-color>aqua</primary-color>
+        <primary-color>dracula</primary-color>
         <custom-favicons>kubernetes-logo.png</custom-favicons>
         <header-logo>kubernetes-logo.png</header-logo>
-        <product-web-url>https://help.example.com</product-web-url>
-        <download-title>Get Awesome App</download-title>
-        <download-page>https://example.com</download-page>
         <showDownloadButton>true</showDownloadButton>
-
+        <noindex-content>false</noindex-content>
     </variables>
 </buildprofiles>
