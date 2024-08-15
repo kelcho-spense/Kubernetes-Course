@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in" name="Kubernetes" start-page="1.intro.md">
+    <toc-element topic="1.intro.md"/>
+    <toc-element topic="2.What_is_Kubernetes.md"/>
+    <toc-element topic="3.Kubernetes_Architecture.md"/>
+    <toc-element topic="4.Node_and_Pod.md"/>
+    <toc-element topic="5.Main_K8s_Components.md"/>
+    <toc-element topic="6.Service_and_Ingress.md"/>
+    <toc-element topic="7.ConfigMap_and_Secret.md"/>
+    <toc-element topic="8.Volume.md"/>
+    <toc-element topic="9.Deployment_and_StatefulSet.md"/>
+    <toc-element topic="10.Kubernetes_Configuration.md"/>
+    <toc-element topic="11.Minikube_and_Kubectl_-_Setup_K8s_cluster_locally.md"/>
+    <toc-element topic="12.Demo-Deploy_WebApp_with_MongoDB.md"/>
+    <toc-element topic="13.Interacting_with_Kubernetes_Cluster.md"/>
+</instance-profile>
