@@ -4,10 +4,11 @@
 
 <instance-profile id="in" name="Kubernetes" start-page="1.intro.md">
     <toc-element topic="1.intro.md"/>
+    <toc-element topic="0.Minikube-Commands-Cheatsheet.md"/>
     <toc-element topic="2.What_is_Kubernetes.md"/>
     <toc-element topic="3.Kubernetes_Architecture.md"/>
-    <toc-element topic="4.Node_and_Pod.md"/>
-    <toc-element topic="5.Main_K8s_Components.md"/>
+    <toc-element topic="4.Main_Kubernetes_Components.md"/>
+    <toc-element topic="5.Node_and_Pod.md"/>
     <toc-element topic="6.Service_and_Ingress.md"/>
     <toc-element topic="7.ConfigMap_and_Secret.md"/>
     <toc-element topic="8.Volume.md"/>
